@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Programming logic with Java**
 
-🏆 Sports fan and **Flamengo lover**
+🏆 Sports fan and **Flamengo lover** 🔴⚫
 
  </div>
  
