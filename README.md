@@ -1,18 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marcoteixeira-m47t.marcoteixeira-m47t" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marco+Teixeira!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Marco+Teixeira!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Brazil.</h3>
+<h3 align="center">No momento estou focado em desenvolvimento back-end, mais flexivel para QA ou Front-end.</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **Programming logic with Java**
+ 🌱 Apredendo a desenvolver API's
 
-🏆 Sports fan and **Flamengo lover** 🔴⚫
+🏆 Backend and Flamengo lover 🔴⚫
 
  </div>
  
@@ -34,5 +34,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github" />
-    <img src="https://skillicons.dev/icons?i=java" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=figma" /><br>
 </div>
